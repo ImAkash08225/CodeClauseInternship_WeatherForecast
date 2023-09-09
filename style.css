@@ -15,8 +15,8 @@ body{
     background-color: #414142;
 }
 
-.container{
-    width: 400px;
+.box{
+    width: 600px;
     height: min-content;
     background-color: #dbd7d7;
     border-radius: 12px;
@@ -29,7 +29,6 @@ body{
     font-size: 20px;
     color: #000;
     text-transform: capitalize;
-   
     padding: 12px 16px;
     border-radius: 14px;
 }
@@ -130,5 +129,5 @@ body{
     margin-block-end: 15px;
 }
 .location-not-found img{
-    width: 80%;
+    width: 85%;
 }
